@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "412a72bd-83f2-4395-8e00-429b6598e59c"
+      }
+    },
+    "owner": "isa_moreno"
   }
 }
