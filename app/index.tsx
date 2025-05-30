@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
     marginBottom: 30,
   },
   link: {
-    backgroundColor: "#1e88e5",
+    backgroundColor: "#457b9d",
     color: "#ffffff",
     paddingVertical: 12,
     paddingHorizontal: 30,

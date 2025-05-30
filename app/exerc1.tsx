@@ -7,7 +7,7 @@ export default function Exerc1() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: "#8ecae6",
+        backgroundColor: "#669bbc",
       }}
     >
       <Text style={styles.tittle}>Meu Primeiro App Expo</Text>

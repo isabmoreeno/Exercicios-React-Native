@@ -80,14 +80,15 @@ const styles = StyleSheet.create({
     overflowX: 'hidden', 
   },
   container: {
-    marginBottom: 10,
+    marginBottom: 15,
+    marginLeft: 15,
     backgroundColor: '#fff',
     borderRadius: 8,
     shadowColor: '#000',
     shadowOpacity: 0.1,
     shadowRadius: 8,
     elevation: 4,
-    width: '100%', 
+    width: '92%', 
   },
   opcoes: {
     flexDirection: 'row',

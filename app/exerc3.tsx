@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
   },
 
   btn: {
-    backgroundColor: "#bc4749",
+    backgroundColor: "#457b9d",
     alignItems: "center", 
     borderRadius: 10,
     shadowColor: "#000",

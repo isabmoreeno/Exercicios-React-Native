@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "#f0f0f0",
+    backgroundColor: "#fff",
     paddingHorizontal: 20,
   },
   tittle: {
@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     borderColor: "#ccc",
   },
   btn: {
-    backgroundColor: "#007AFF",
+    backgroundColor: "#457b9d",
     padding: 15,
     borderRadius: 8,
     alignItems: "center",
@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
   },
   text: {
     marginTop: 15,
-    color: "#007AFF",
+    color: "#457b9d",
     fontSize: 14,
   },
 });
