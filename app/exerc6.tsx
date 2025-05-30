@@ -12,7 +12,7 @@ export default function Exerc6() {
           <Text style={styles.texto}>
             A TARDIS não é apenas uma cabine de polícia, é uma máquina do tempo que viaja pelo espaço e pelas eras.
           </Text>
-          <Image source={{ uri: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tardis-Smith.svg" }} style={styles.img} />
+          <Image source={{ uri: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA74S64wfz3pYtK50kI9_H_GJqwMjxg1D1L3fRmdlDchezFr-WdQhxFC1rXHXIV7aYPfU&usqp=CAU" }} style={styles.img} />
         </View>
       </View>
 
@@ -21,7 +21,7 @@ export default function Exerc6() {
           <Text style={styles.texto}>
             Os Senhores do Tempo dominam a manipulação temporal, mas até eles têm regras... e segredos.
           </Text>
-          <Image source={{ uri: "https://upload.wikimedia.org/wikipedia/en/e/e7/Seal_of_the_Time_Lords_%28Doctor_Who%29.svg" }} style={styles.img} />
+          <Image source={{ uri: "https://gallifrey.pl/wp-content/uploads/2021/01/Wszyscy-Doktorzy-all-doctors.jpg" }} style={styles.img} />
         </View>
       </View>
 
@@ -30,7 +30,7 @@ export default function Exerc6() {
           <Text style={styles.texto}>
             Daleks, Cybermen e Anjos Lamentadores são apenas algumas das ameaças que surgem entre as estrelas.
           </Text>
-          <Image source={{ uri: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dalek_6861.jpg" }} style={styles.img} />
+          <Image source={{ uri: "https://thedoctorwhocompanion.com/wp-content/uploads/2021/05/The-Pandorica-Opens-Daleks-Cybermen-Sontarans.jpg" }} style={styles.img} />
         </View>
       </View>
 
@@ -39,7 +39,7 @@ export default function Exerc6() {
           <Text style={styles.texto}>
             Cada regeneração do Doutor traz uma nova personalidade, mas a missão de proteger o tempo permanece.
           </Text>
-          <Image source={{ uri: "https://upload.wikimedia.org/wikipedia/en/4/4d/Doctor_Who_logo_2018.svg" }} style={styles.img} />
+          <Image source={{ uri: "https://papowhovian.com.br/wp-content/uploads/2016/02/all.jpg" }} style={styles.img} />
         </View>
       </View>
 
